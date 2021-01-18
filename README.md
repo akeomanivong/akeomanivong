@@ -1,3 +1,5 @@
+![banner](https://github.com/akeomanivong/akeomanivong/blob/main/banner2.jpg)
+
 ### Hi, I'm Asia! 👋
 
 - 😄 Pronouns: He/Him/His
