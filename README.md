@@ -1,6 +1,6 @@
 ![banner](https://github.com/akeomanivong/akeomanivong/blob/main/banner2.jpg)
 
-### Hi, I'm Asia! 👋
+## Hi, I'm Asia! 👋
 
 - 😄 Pronouns: He/Him/His
 - :brain: I have experience in Java, Python, C++, SQL, and Arduino.
