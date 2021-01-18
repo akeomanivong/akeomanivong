@@ -1,3 +1,5 @@
+>## _"The trouble with programmers is that you can never tell what a programmer is doing until it is too late." -Seymour Cray_
+
 ### Hi, I'm Asia! 👋
 
 - 😄 Pronouns: He/Him/His
