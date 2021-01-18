@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about web APIs, Javascript, and NodeJS.
 - 🤔 I’m looking for help with improving my skillsets and expanding my portfolio.
 - 📫 How to reach me: asia.keomanivong@gmail.com
-- :runner: Fun fact #1: I enjoy physical activity, including running, biking, hiking, backpacking, rock climbing, and snowboarding!
+- :runner: Fun fact #1: I enjoy physical activity, including running, biking, karate, backpacking, rock climbing, and snowboarding!
 - :game_die: Fun fact #2: I play a lot of board games! I've played chess since 1st grade and I currently own 80 board games.
 <!--
 **akeomanivong/akeomanivong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
