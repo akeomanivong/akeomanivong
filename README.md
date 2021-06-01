@@ -3,9 +3,8 @@
 ## Hi, I'm Asia! 👋
 
 - 😄 Pronouns: He/Him/His
-- :brain: I have experience in Java, Python, C++, SQL, and Arduino.
-- 🌱 I’m currently learning about web APIs, Javascript, and NodeJS.
-- 🤔 I’m looking for help with improving my skillsets and expanding my portfolio.
+- :brain: I have experience in Java, Python, C++, SQL, API's, Javascript, Web Development, and Arduino.
+- 🌱 I’m currently searching for a job where I can make meaningful contributions in the workplace.
 - 📫 How to reach me: asia.keomanivong@gmail.com
 - :runner: Fun fact #1: I enjoy physical activity, including running, biking, karate, backpacking, rock climbing, and snowboarding!
 - :game_die: Fun fact #2: I play a lot of board games! I've played chess since 1st grade and I currently own 80 board games.
